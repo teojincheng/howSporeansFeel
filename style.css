@@ -1,0 +1,9 @@
+#outlying-container{
+  display:grid;
+   grid-template-columns: auto auto;
+}
+
+#outlying-container-2{
+  display:grid;
+   grid-template-columns: auto auto;
+}
