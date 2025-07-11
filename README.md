@@ -1,2 +1,0 @@
-# howSporeansFeel
-how singaporeans feel
