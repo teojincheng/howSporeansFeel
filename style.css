@@ -15,3 +15,7 @@ background-color: yellow;
 img{
  height: 200px;
 }
+
+.outlying-container p{
+text-align:center;
+}
