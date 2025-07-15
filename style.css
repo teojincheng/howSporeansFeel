@@ -16,7 +16,7 @@ img{
  height: 200px;
 }
 
-.outlying-container p{
+.outlying-container {
 text-align:center;
-vertical-align:center;
+margin: auto;
 }
