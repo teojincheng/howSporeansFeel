@@ -3,6 +3,12 @@
    grid-template-columns: auto auto;
 }
 
+
+.text-grid{
+text-align: center;
+margin: auto;
+}
+
 #grid-2{
 background-color: green;
 text-align: center;
